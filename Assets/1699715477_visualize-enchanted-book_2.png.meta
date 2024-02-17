@@ -1,0 +1,2752 @@
+fileFormatVersion: 2
+guid: 57ea83c8c459dd94cb9445f764cc8e28
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54afed40c02f96a4280fb7a31943cddd
+      internalID: -267054914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d6cc5a5132124d91f1d61445fa6e2
+      internalID: 1674803915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e146c0d5c2fa34f8071fceb643ff18
+      internalID: -931863335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1e6543b899574f85d45d2e3e206c0
+      internalID: 1865298464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa93d86ac9fea41b7eb5afb825eb6c
+      internalID: 1993137710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b207e8352d683429cf41c36b30c36c
+      internalID: 1911735812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ed307b726e8f4eb944293b6512e7f
+      internalID: -1436379170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1ba17e7cae894f901e871ace23230
+      internalID: -964044824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d729f4dee21c7224ba7befb0bb686c2b
+      internalID: 438390939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195c4afa6f0a1a74d9a24882a88e6f36
+      internalID: 273466880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e29dcac3f69e4bb7dd9a941a62501
+      internalID: -118748542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5197d736d3f23f84da0001a48c16ca2f
+      internalID: -1686079595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bea7c885e9d734f9e92793dca82ec1
+      internalID: -1359642546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af79c4a85183f0249a0ed5e5529f8182
+      internalID: 690439695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c495079396c90784895798d102ad1c67
+      internalID: 841616565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6dc2451f073154c8aab60c8eff4dcb
+      internalID: -1219128516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 247
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89ffba60b4413d499e9f86b4db091c5
+      internalID: 448231231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc4b6ea61c45244a75ba8f3a97642e
+      internalID: -37848440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374379ec02548cf45bab96bb39416397
+      internalID: 1772119477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c10296683514b44097e5278b489049e
+      internalID: -66562037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8354a5f7881aa4ea7bc73d8d573a3c
+      internalID: 2013131842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdb89668353aab47ae3e7b410850bda
+      internalID: 667912962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0e0612e720404380e8e5c3b5d0a87
+      internalID: 605283474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff8672f21a45742a4fe36da0b639bc
+      internalID: 615632323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a897b2df4065ab40b851f2b9e1a2120
+      internalID: 1003836958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e5f23fee3a6b048822a4931fea6253
+      internalID: -1316409758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326e054dc7807f74b9a5b87f1125e0d4
+      internalID: -90843003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b965046052912419e3642f0bd2c189
+      internalID: 1663165491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433f9cc6677d7ce4b9f5e42d31ea7c73
+      internalID: -1137523730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_29
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9a8b5936d0b14c8b0afef0142f727
+      internalID: -891087159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e773e5050ecf1e4793a8ad4811ef9d8
+      internalID: -751876994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7db586621850d4ab4420b24ee4f413
+      internalID: 420834873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_32
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06885b234a65514385db4fb462ca6ec
+      internalID: 711173001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_33
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 206
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5371cb948d21ed74ebb9a451fcf51783
+      internalID: 1549519008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb696e7ff7aea743b0fc0830a5d2dca
+      internalID: -1755602532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6d414d42e05649afab7b117897158
+      internalID: 1851894986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d571f26dfab63459c9bc47be0dc17e
+      internalID: -2114478383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b18a8068595a048b44ad322710245d
+      internalID: -2026749589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7063d98222b092449743cf913437237
+      internalID: -227471829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 164
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17a2eb14e0f894fa851e01dbc23373
+      internalID: 761310421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f016dfe1eb080a84fb452b3649b88f0c
+      internalID: -2017876166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c6420703bc4b42b70e9474952905c
+      internalID: -647223439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97562a20807f4884f83a097283fdf4ec
+      internalID: 969290806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96770b811f64fe645ac0a295c9d7b222
+      internalID: -1578324831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112e7a34f57660498370eae43abdc24
+      internalID: -1445363337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ca07d2cec40140b6b45ae8eabac33
+      internalID: 867165621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd49f3ed11ae4243afef6c27c89112c
+      internalID: -2033334435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8a842f494dca54da3d5d973be437e6
+      internalID: -701128925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_48
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e81e72a8b17b448f1382ee7eb68c5
+      internalID: -975469119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_49
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be9a0ae946d6a459f69cc1bf53da9d
+      internalID: -1477457808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 165
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b153b03e28a841a4983ce3be5d0978a3
+      internalID: -589002971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad304437bfa0b543a76b353542aa1f2
+      internalID: -2016143566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7260c20deb24649bcb15a347881db4
+      internalID: 1984059769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8a6d619dba6848bdddf1e73b35de6
+      internalID: -324775785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39043594836f6444e8edc21c197b9d3f
+      internalID: -1524170440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245f388e7ea88e48b4308c344efd276
+      internalID: -1751193179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780e2e0a3b8db9141b68382d186ef68e
+      internalID: -1341830364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4a4afe66a14c40bd61fdfdff3dad5
+      internalID: 523724627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110547ccfd099934e87e29f964034eee
+      internalID: -973243582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5cb0acd31c31e4bab804c15fdfc137
+      internalID: -851347823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_60
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d245d493ee76c4f811e06b80a0b8fb
+      internalID: -398888275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_61
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6986f4c5779d4fb3429e5f50098ed
+      internalID: 41591862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_62
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655094536eebfd64eb165127124e1aaa
+      internalID: -708719473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cbcd87c3318d644b00a85b520bccf7
+      internalID: -797689978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_64
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3e618162fbe44787ece2635e95438
+      internalID: -1383030341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_65
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe181deff8925d54ebde6886f69071eb
+      internalID: -992328203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_66
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c535b6c8533514c8495677e786455d
+      internalID: 1542342081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_67
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 124
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcbd04787b08a94f9f6b999dffe2a09
+      internalID: 1561523003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed413ecdd92d3574fa893b6fdcdac0f4
+      internalID: 1860700861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b3a9aabb48b8743895e40ab269a94e
+      internalID: -1526123043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836fd65a64669a94897371235059b33b
+      internalID: 179079171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968789f5dc50314eba68c6781c08fb5
+      internalID: -2030006875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906d4c4b49fec94388c3e5ba30764f3
+      internalID: -189726965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_73
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb51293ee48204d98978ab539db1b1
+      internalID: -1634499271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec46f994c2c83248aee3a94d0d68b4b
+      internalID: 2019008014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb069ade989a57e4b8ee21886b9f31cb
+      internalID: 2023054334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933e6267032aae4188451a3bf3f30cd
+      internalID: 735657743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_77
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20bd420e2989344cbba77da6536d2ac
+      internalID: 1805351688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925db930b1c2fc24786a6b33cfd7c7e7
+      internalID: -2102856319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_79
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b32423d3c2103345bf12f043f2aa201
+      internalID: 989412844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_80
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d8f3798aacd14a85ceca68e3f3203
+      internalID: -125545838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_81
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b0b7ff0f7248c45992a01e076eeb6f
+      internalID: -47805037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_82
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60358e8a3ec8e2b499dc4934704b553f
+      internalID: 1677662103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_83
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9839dce72cc6a0348887983d4c768c62
+      internalID: -822044125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_84
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 83
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a633a42d3e9b4691c75a974139207
+      internalID: -137209568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad7d1f32d5a1648856d07b4a0db14b
+      internalID: -583814808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a5874c76469a94fb79adcba47edce0
+      internalID: -1811650402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e903a67e32590e74ba651b587c155bba
+      internalID: -211042939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_88
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e96dbffae4ed004cbfeb2955ccfb48f
+      internalID: 796494987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_89
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6908dd9e53892e748b808eb118aa0d15
+      internalID: 427249066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738498901a7c1b4eac04e826d510374
+      internalID: 1715489221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_91
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb87dede8c2e6468b3f623832e50ff
+      internalID: 255191172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_92
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95a347eb5865b40b072c38aa3cf08d
+      internalID: -1926287603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c4a8e72d7c8c48a1677be24620fb3
+      internalID: -2065704288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_94
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4722da685cd6c8428b57376372384db
+      internalID: 1459117667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_95
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a906e6db480b4b926e4fce8f16ec5
+      internalID: -32733786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_96
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba89c90d583ebd4f89d109df939be4f
+      internalID: -2084766988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_97
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3cf8986093d541ae021cc6a2f0deb
+      internalID: 1369669543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_98
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fbff2665058254f987d7aeacd0a195
+      internalID: -1812751748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_99
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2918f1db49c924ca70fd342013ea06
+      internalID: -825337917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_100
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d914ebbb569be2489f8a1e793a9eec5
+      internalID: -265986628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_101
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 42
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4dcb7db2aa3c84eb05daaf1d3e9146
+      internalID: -755094269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663208615c2d9d147b3e61b9a341a07d
+      internalID: 497845954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27653573ded8a49b66494b7e1985cc
+      internalID: 1277419193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_104
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b63b3ef3d74bc468606aa1c32f8ab0
+      internalID: 956653778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4bd7baca5f73e4eadbb3a152181dbb
+      internalID: 1904544605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_106
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd23483b3449ef4b929fb948dca1463
+      internalID: -1429302688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_107
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350bd57595331e84c822e5c2dc07f7f1
+      internalID: 1605586975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_108
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e65d723c282224eb26315dbb77d1a6
+      internalID: -1598897820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_109
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bef4c536d831dc469d2a9928a2a8613
+      internalID: -341536336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_110
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa465f2cf1a274d862240936d64b02
+      internalID: -1478980809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_111
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ea73feda0662c498e948e045a172b1
+      internalID: 840929422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_112
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21df50e672fb24b844272e50e9c5c3
+      internalID: -637214868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_113
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd29eba49bcce4f8f1ac60c3b3bbf7
+      internalID: 28413103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_114
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b826fb5fa432549bda9b4b0f2aa17a
+      internalID: 279991769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_115
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fdc5506d4a3a43b1014f988ef2734
+      internalID: 596617202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_116
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3af8fcd78cf71447b5c23c55b803cd8
+      internalID: 271176642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_117
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b702b74b4c806f4582ab6fa77434850
+      internalID: -229391079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1699715477_visualize-enchanted-book_2_118
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1
+        width: 41
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1951bc071d11844fa0eee8929ee2c73
+      internalID: 1260806232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1699715477_visualize-enchanted-book_2_84: -137209568
+      1699715477_visualize-enchanted-book_2_115: 596617202
+      1699715477_visualize-enchanted-book_2_41: -647223439
+      1699715477_visualize-enchanted-book_2_4: 1993137710
+      1699715477_visualize-enchanted-book_2_116: 271176642
+      1699715477_visualize-enchanted-book_2_98: -1812751748
+      1699715477_visualize-enchanted-book_2_0: -267054914
+      1699715477_visualize-enchanted-book_2_62: -708719473
+      1699715477_visualize-enchanted-book_2_8: 438390939
+      1699715477_visualize-enchanted-book_2_56: -1341830364
+      1699715477_visualize-enchanted-book_2_111: 840929422
+      1699715477_visualize-enchanted-book_2_49: -1477457808
+      1699715477_visualize-enchanted-book_2_47: -701128925
+      1699715477_visualize-enchanted-book_2_80: -125545838
+      1699715477_visualize-enchanted-book_2_48: -975469119
+      1699715477_visualize-enchanted-book_2_70: 179079171
+      1699715477_visualize-enchanted-book_2_63: -797689978
+      1699715477_visualize-enchanted-book_2_53: -324775785
+      1699715477_visualize-enchanted-book_2_1: 1674803915
+      1699715477_visualize-enchanted-book_2_44: -1445363337
+      1699715477_visualize-enchanted-book_2_66: 1542342081
+      1699715477_visualize-enchanted-book_2_67: 1561523003
+      1699715477_visualize-enchanted-book_2_91: 255191172
+      1699715477_visualize-enchanted-book_2_5: 1911735812
+      1699715477_visualize-enchanted-book_2_9: 273466880
+      1699715477_visualize-enchanted-book_2_81: -47805037
+      1699715477_visualize-enchanted-book_2_86: -1811650402
+      1699715477_visualize-enchanted-book_2_69: -1526123043
+      1699715477_visualize-enchanted-book_2_45: 867165621
+      1699715477_visualize-enchanted-book_2_74: 2019008014
+      1699715477_visualize-enchanted-book_2_93: -2065704288
+      1699715477_visualize-enchanted-book_2_75: 2023054334
+      1699715477_visualize-enchanted-book_2_54: -1524170440
+      1699715477_visualize-enchanted-book_2_22: 605283474
+      1699715477_visualize-enchanted-book_2_51: -2016143566
+      1699715477_visualize-enchanted-book_2_108: -1598897820
+      1699715477_visualize-enchanted-book_2_60: -398888275
+      1699715477_visualize-enchanted-book_2_46: -2033334435
+      1699715477_visualize-enchanted-book_2_21: 667912962
+      1699715477_visualize-enchanted-book_2_23: 615632323
+      1699715477_visualize-enchanted-book_2_68: 1860700861
+      1699715477_visualize-enchanted-book_2_90: 1715489221
+      1699715477_visualize-enchanted-book_2_12: -1359642546
+      1699715477_visualize-enchanted-book_2_79: 989412844
+      1699715477_visualize-enchanted-book_2_113: 28413103
+      1699715477_visualize-enchanted-book_2_114: 279991769
+      1699715477_visualize-enchanted-book_2_65: -992328203
+      1699715477_visualize-enchanted-book_2_99: -825337917
+      1699715477_visualize-enchanted-book_2_61: 41591862
+      1699715477_visualize-enchanted-book_2_14: 841616565
+      1699715477_visualize-enchanted-book_2_112: -637214868
+      1699715477_visualize-enchanted-book_2_37: -2026749589
+      1699715477_visualize-enchanted-book_2_92: -1926287603
+      1699715477_visualize-enchanted-book_2_96: -2084766988
+      1699715477_visualize-enchanted-book_2_24: 1003836958
+      1699715477_visualize-enchanted-book_2_52: 1984059769
+      1699715477_visualize-enchanted-book_2_34: -1755602532
+      1699715477_visualize-enchanted-book_2_59: -851347823
+      1699715477_visualize-enchanted-book_2_82: 1677662103
+      1699715477_visualize-enchanted-book_2_83: -822044125
+      1699715477_visualize-enchanted-book_2_88: 796494987
+      1699715477_visualize-enchanted-book_2_102: 497845954
+      1699715477_visualize-enchanted-book_2_78: -2102856319
+      1699715477_visualize-enchanted-book_2_29: -891087159
+      1699715477_visualize-enchanted-book_2_11: -1686079595
+      1699715477_visualize-enchanted-book_2_101: -755094269
+      1699715477_visualize-enchanted-book_2_13: 690439695
+      1699715477_visualize-enchanted-book_2_58: -973243582
+      1699715477_visualize-enchanted-book_2_100: -265986628
+      1699715477_visualize-enchanted-book_2_16: 448231231
+      1699715477_visualize-enchanted-book_2_18: 1772119477
+      1699715477_visualize-enchanted-book_2_20: 2013131842
+      1699715477_visualize-enchanted-book_2_95: -32733786
+      1699715477_visualize-enchanted-book_2_39: 761310421
+      1699715477_visualize-enchanted-book_2_89: 427249066
+      1699715477_visualize-enchanted-book_2_71: -2030006875
+      1699715477_visualize-enchanted-book_2_31: 420834873
+      1699715477_visualize-enchanted-book_2_36: -2114478383
+      1699715477_visualize-enchanted-book_2_42: 969290806
+      1699715477_visualize-enchanted-book_2_33: 1549519008
+      1699715477_visualize-enchanted-book_2_104: 956653778
+      1699715477_visualize-enchanted-book_2_73: -1634499271
+      1699715477_visualize-enchanted-book_2_85: -583814808
+      1699715477_visualize-enchanted-book_2_17: -37848440
+      1699715477_visualize-enchanted-book_2_106: -1429302688
+      1699715477_visualize-enchanted-book_2_107: 1605586975
+      1699715477_visualize-enchanted-book_2_110: -1478980809
+      1699715477_visualize-enchanted-book_2_57: 523724627
+      1699715477_visualize-enchanted-book_2_50: -589002971
+      1699715477_visualize-enchanted-book_2_118: 1260806232
+      1699715477_visualize-enchanted-book_2_55: -1751193179
+      1699715477_visualize-enchanted-book_2_30: -751876994
+      1699715477_visualize-enchanted-book_2_94: 1459117667
+      1699715477_visualize-enchanted-book_2_3: 1865298464
+      1699715477_visualize-enchanted-book_2_87: -211042939
+      1699715477_visualize-enchanted-book_2_117: -229391079
+      1699715477_visualize-enchanted-book_2_64: -1383030341
+      1699715477_visualize-enchanted-book_2_72: -189726965
+      1699715477_visualize-enchanted-book_2_109: -341536336
+      1699715477_visualize-enchanted-book_2_40: -2017876166
+      1699715477_visualize-enchanted-book_2_6: -1436379170
+      1699715477_visualize-enchanted-book_2_43: -1578324831
+      1699715477_visualize-enchanted-book_2_38: -227471829
+      1699715477_visualize-enchanted-book_2_25: -1316409758
+      1699715477_visualize-enchanted-book_2_103: 1277419193
+      1699715477_visualize-enchanted-book_2_10: -118748542
+      1699715477_visualize-enchanted-book_2_15: -1219128516
+      1699715477_visualize-enchanted-book_2_27: 1663165491
+      1699715477_visualize-enchanted-book_2_19: -66562037
+      1699715477_visualize-enchanted-book_2_26: -90843003
+      1699715477_visualize-enchanted-book_2_35: 1851894986
+      1699715477_visualize-enchanted-book_2_77: 1805351688
+      1699715477_visualize-enchanted-book_2_97: 1369669543
+      1699715477_visualize-enchanted-book_2_7: -964044824
+      1699715477_visualize-enchanted-book_2_32: 711173001
+      1699715477_visualize-enchanted-book_2_76: 735657743
+      1699715477_visualize-enchanted-book_2_2: -931863335
+      1699715477_visualize-enchanted-book_2_28: -1137523730
+      1699715477_visualize-enchanted-book_2_105: 1904544605
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

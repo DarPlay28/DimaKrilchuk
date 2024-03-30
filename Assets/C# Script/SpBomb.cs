@@ -25,7 +25,83 @@ public class SpBomb : MonoBehaviour
         }
         for(int y = 0;y < 5;y++)
         {
-            chk
+            for (int x = 0;x < 5;x++)
+            {
+                number = 0;
+                if (mass[y, x] != -1)
+                {
+                    if (y > 0)
+                    {
+                        if (mass[y - 1, x] == -1)
+                        {
+                            number++;
+                        }
+                    }
+                    if (y < 4)
+                    {
+                        if (mass[y + 1, x] == -1)
+                        {
+                            number++;
+                        }
+                    }
+                    if (x < 4)
+                    {
+                        if (mass[y, x + 1] == -1)
+                        {
+                            number++;
+                        }
+                    }
+                    if (x > 0)
+                    {
+                        if (mass[y, x - 1] == -1)
+                        {
+                            number++;
+                        }
+                    }
+                    if (x > 0 && y > 0)
+                    {
+                        if (mass[y - 1, x + 1] == -1)
+                        {
+                            number++;
+                        }
+                    }
+                    if (x > 0 && y < 4)
+                    {
+                        if (mass[y - 1, x + 1] == -1)
+                        {
+                            number++;
+                        }
+                    }
+                    if (x > 0 && y > 0)
+                    {
+                        if (mass[y - 1, x + 1] == -1)
+                        {
+                            number++;
+                        }
+                    }
+                    if (x > 0 && y > 0)
+                    {
+                        if (mass[y - 1, x + 1] == -1)
+                        {
+                            number++;
+                        }
+                    } //
+                }
+            }
+        }
+    }
+
+    public void Check(int index)
+    {
+        int y = index / 5;
+        int x = index % 5;
+        if (mass[y, x] == -1)
+        {
+            buttons[intex].transform.parent.GetComponent<Image>().color = Color.red;
+        }
+        else
+        {
+            buttons[index].text = mass[y, x].ToString();
         }
     }
 }
